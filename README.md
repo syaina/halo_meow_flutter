@@ -2,8 +2,8 @@
 
 Aplikasi untuk konsultasi kesehatan kucing secara Online 
 
-Done :
-#screen
+## Done :
+### screen
 - Splash screen
 - android app icon
 - Login Screen
@@ -11,7 +11,7 @@ Done :
 - Konsultasi Page
 - Akun Page
 
-#action
+### action
 - navigation route
 - modular widget
 - Appbar pop menu action
