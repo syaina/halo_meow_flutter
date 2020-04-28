@@ -10,13 +10,27 @@ Aplikasi untuk konsultasi kesehatan kucing secara Online
 - Beranda Page
 - Konsultasi Page
 - Akun Page
-
 ### action
 - navigation route
 - modular widget
 - Appbar pop menu action
 - Navigation Bottom Bar move tab
 
+## To Do :
+### screen
+- ubah profil
+- chat
+- pop up profil doctor
+- setting page
+- about app page
+- news page
+
+### action
+- login , register , logout
+- setting
+- api
+- database
+- chat
 
 
 
